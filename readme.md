@@ -9,7 +9,7 @@
 (Future updates here..)
 
 Branches
-0.21.1.7
+0.22.0.2
 - Created a Beta branch for smaller updates
 - Created a readme branch for updating the readme file to make things easier
 
@@ -19,10 +19,13 @@ Point of Origin
 - Added a ton of files
 ```
 ### How to read the update log
+#### Numbers:
 - First number is full release number
 - Second number is the number of implementations/large file changes made in the current beta version
 - Last number is the number of files
 - Second to last number is the number of folders
+#### Other info:
+- If you cant 
 
 
 ### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com 
