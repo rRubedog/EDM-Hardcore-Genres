@@ -9,12 +9,12 @@
 (Future updates here..)
 
 Branches
-0.1.1.7
+0.21.1.7
 - Created a Beta branch for smaller updates
 - Created a readme branch for updating the readme file to make things easier
 
 Point of Origin
-0.1.7.19
+0.16.7.19
 - Created the project
 - Added a ton of files
 ```
