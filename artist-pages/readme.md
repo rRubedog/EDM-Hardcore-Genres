@@ -1,3 +1,8 @@
+# Artists
+
+### Artist page template below
+```
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -30,7 +35,7 @@
                 <div class="artist-image">
                     <!-- Artist image will go here -->
                 </div>
-                <div class="title">Midbooze</div>
+                <div class="title">Artist</div>
                 <div class="discription">
                     No info here yet.. ¯\_(ツ)_/¯
 
@@ -40,3 +45,6 @@
         </div>
     </body>
 </html>
+
+
+```
