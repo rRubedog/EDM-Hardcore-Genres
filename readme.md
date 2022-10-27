@@ -1,7 +1,7 @@
 # Hardcore Music/Genres
 ### Whoops..
 ### I may or may not have overwhelmed myself with a bit too many files..
-#### This project is expected to be done in a long time because I am the only dev working on it, and this was originaly made for my entertainment.
+#### If there are any genres that you want to learn about that are not included in this website, you can find more [Here](https://en.wikipedia.org/wiki/List_of_electronic_music_genres)
 
 # Update Log
  > If you don't know how to read the update numbers, please refer to the tutorial below the update log.
