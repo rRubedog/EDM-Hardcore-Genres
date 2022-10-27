@@ -4,10 +4,11 @@
 ## This project is expected to be done in a while because I am the only dev working on it, and this was originaly made for my entertainment.
 
 # Update Log \\/
-```
  > If you don't know how to read the update numbers, please refer to the tutorial below the updates.
+```
+(Future updates coming here..)
 
-
+Point of Origin
 0.1.7.19
 - Created the project
 - Added a ton of files
