@@ -23,6 +23,10 @@ Point of Origin
 ### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com
 When I finish getting some info into some of these files I will be putting my sources below and in the bottom nav bar in the code.
 
+#### Special thanks for being a chad and posting seemingly pointless info for me to use
+
+- [HTML email links](https://www.tutorialspoint.com/html/html_email_links.htm)
+
 #### Sources Linked Below
 
 - [Camellia's genres](https://www.otaquest.com/camellia-music/#:~:text=DJ's%20are%20the%20heart%20of,%2C%20Drum%20n%20Bass%2C%20Trance.)
