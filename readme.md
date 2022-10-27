@@ -3,8 +3,8 @@
 ### I may or may not have overwhelmed myself a bit with files..
 ## This project is expected to be done in a while because I am the only dev working on it, and this was originaly made for my entertainment.
 
-# Update Log \\/
- > If you don't know how to read the update numbers, please refer to the tutorial below the updates.
+# Update Log
+ > If you don't know how to read the update numbers, please refer to the tutorial below the update log.
 ```
 (Future updates coming here..)
 
