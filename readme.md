@@ -20,10 +20,10 @@ Point of Origin
 - Second to last number is the number of folders
 
 
-# If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com 
+### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com 
 When I finish getting some info into some of these files I will be putting my sources below and in the bottom nav bar in the code.
 
-#### Sources Linked Here \\/
+#### Sources Linked Below
 
 ```
     Sources will be linked here
