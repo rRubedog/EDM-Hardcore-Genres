@@ -6,7 +6,12 @@
 # Update Log
  > If you don't know how to read the update numbers, please refer to the tutorial below the update log.
 ```
-(Future updates coming here..)
+(Future updates here..)
+
+Branches
+0.1.1.7
+- Created a Beta branch for smaller updates
+- Created a readme branch for updating the readme file to make things easier
 
 Point of Origin
 0.1.7.19
