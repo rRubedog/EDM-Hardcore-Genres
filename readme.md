@@ -25,7 +25,4 @@ When I finish getting some info into some of these files I will be putting my so
 
 #### Sources Linked Below
 
-```
-    [Camellia's genres](https://www.otaquest.com/camellia-music/#:~:text=DJ's%20are%20the%20heart%20of,%2C%20Drum%20n%20Bass%2C%20Trance.)
-
-```
+- [Camellia's genres](https://www.otaquest.com/camellia-music/#:~:text=DJ's%20are%20the%20heart%20of,%2C%20Drum%20n%20Bass%2C%20Trance.)
