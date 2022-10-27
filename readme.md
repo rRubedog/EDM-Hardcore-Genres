@@ -19,14 +19,10 @@ Point of Origin
 - Added a ton of files
 ```
 ### How to read the update log
-#### Numbers:
 - First number is full release number
 - Second number is the number of implementations/large file changes made in the current beta version
 - Last number is the number of files
 - Second to last number is the number of folders
-#### Other info:
-- If you cant 
-
 
 ### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com 
 When I finish getting some info into some of these files I will be putting my sources below and in the bottom nav bar in the code.
