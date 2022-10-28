@@ -1,6 +1,6 @@
 # Artists
 
-If you didn't see an artist that you want to see on this website, [contact]("mailto:rubedog.p960@gmail.com") me and I will add them asap.
+If you didn't see an artist that you want to see on this website, [contact me](mailto:rubedog.p960@gmail.com?subject = Feedback&body = Message) and I will add them asap.
 
 ### Artist page template below
 ```
