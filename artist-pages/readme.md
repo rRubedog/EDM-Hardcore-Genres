@@ -41,7 +41,10 @@ If you didn't see an artist that you want to see on this website, contact me -->
                 <div class="discription">
                     No info here yet.. ¯\_(ツ)_/¯
 
-                    If I missed any info, you can find more <a href="https://en.wikipedia.org/wiki/Machine_Girl_(band)">here</a> or you can request it through <a href="mailto:rubedog.p960@gmail.com?subject = Feedback&body = Message">my email</a>. 
+                    If I missed any info, you can find more 
+                    <a href="https://en.wikipedia.org/wiki/Machine_Girl_(band)">here</a>
+                    or you can request it through 
+                    <a href="mailto:rubedog.p960@gmail.com?subject = Feedback&body = Message">my email</a>. 
                 </div>
             </div>
         </div>
