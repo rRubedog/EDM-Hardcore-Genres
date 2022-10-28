@@ -26,9 +26,6 @@ If you didn't see an artist that you want to see on this website, contact me -->
                     <div class="link">
                         <a href="genres.html">Genres</a>
                     </div>
-                    <div class="link">
-                        <a href="#"></a>
-                    </div>
                 </div>
             </div>
         </div>
