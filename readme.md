@@ -8,6 +8,11 @@
 ```
 (Future updates coming here..)
 
+Artist info and file Updates
+0.29.7.22
+- Created an artist template and readme.md file
+- Updated Camellia's info
+
 Point of Origin
 0.1.7.19
 - Created the project
