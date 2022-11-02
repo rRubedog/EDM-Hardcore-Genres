@@ -8,6 +8,11 @@
 ```
 (Future updates coming here..)
 
+Started Styling
+0.35.7.23
+- Created links css file
+- Started adding nav styling
+
 Artist info and file Updates
 0.29.7.22
 - Created an artist template and readme.md file
