@@ -2,6 +2,30 @@
 
 If you didn't see an artist that you want to see on this website, contact me -->(rubedog.p960@gmail.com) and I will add them asap.
 
+# Artist Update Log
+ > If you don't know how to read the update numbers, please refer to the tutorial below the update log.
+```
+(Future updates coming here..)
+
+Started Styling
+0.35.7.23
+- Created links css file
+- Started adding nav styling
+- Added some artist info
+
+Artist info and file Updates
+0.29.7.22
+- Created an artist template and readme.md file
+- Updated Camellia's info
+```
+### How to read the update log
+- First number is full release number
+- Second number is the number of implementations/large file changes made in the current beta version
+- Last number is the number of files
+- Second to last number is the number of folders
+
+
+
 ### Artist page template below
 ```
 
