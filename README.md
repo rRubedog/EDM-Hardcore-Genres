@@ -23,11 +23,7 @@ Point of Origin
 - Created the project
 - Added a ton of files
 ```
-### How to read the update log
-- First number is full release number
-- Second number is the number of implementations/large file changes made in the current beta version
-- Last number is the number of files
-- Second to last number is the number of folders
+If you don't know how to read the Update Log click [here](Update_Log_README.md).
 
 
 ### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com
