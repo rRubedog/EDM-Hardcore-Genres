@@ -4,7 +4,7 @@
 #### This project is expected to be done in a long time because I am the only dev working on it, and this was originaly made for my entertainment.
 
 # Update Log
- > If you don't know how to read the update numbers, please refer to the tutorial below the update log.
+ > If you don't know how to read the Update Log click [here](/Update-Log-Tutorial/README.md).
 ```
 (Future updates coming here..)
 
@@ -23,7 +23,6 @@ Point of Origin
 - Created the project
 - Added a ton of files
 ```
-If you don't know how to read the Update Log click [here](Update_Log_README.md).
 
 
 ### If you have any suggestions for this project or corrections that you would like me to make, email me at rubedog.p960@gmail.com
