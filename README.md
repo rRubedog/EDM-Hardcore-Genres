@@ -1,7 +1,6 @@
 # Hardcore Music/Genres
-### Whoops..
-### I may or may not have overwhelmed myself with a bit too many files..
-#### This project is expected to be done in a long time because I am the only dev working on it, and this was originaly made for my entertainment.
+> !!This project is and always will be a WIP!!  
+>If you want me to add an artist, dm me on twitter at @TimmothyRain or email me at rubedog.p960@gmail.com.
 
 # Update Log
  > If you don't know how to read the Update Log click [here](/Update-Log-Tutorial/README.md).
