@@ -1,5 +1,4 @@
 # Artists
-
 If you didn't see an artist that you want to see on this website, contact me -->(rubedog.p960@gmail.com) and I will add them asap.
 
 # Artist Update Log
